@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\iMet\\working dir\\WebApiWithEF\\WebApiWithEF.csproj": {}
+    "C:\\Users\\admin\\Source\\Repos\\AdebayoEmmanuel\\ASP.NET-Web-API-in-.NET-Core-With-Entity-Framework\\WebApiWithEF\\WebApiWithEF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\iMet\\working dir\\WebApiWithEF\\WebApiWithEF.csproj": {
+    "C:\\Users\\admin\\Source\\Repos\\AdebayoEmmanuel\\ASP.NET-Web-API-in-.NET-Core-With-Entity-Framework\\WebApiWithEF\\WebApiWithEF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\iMet\\working dir\\WebApiWithEF\\WebApiWithEF.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\AdebayoEmmanuel\\ASP.NET-Web-API-in-.NET-Core-With-Entity-Framework\\WebApiWithEF\\WebApiWithEF.csproj",
         "projectName": "WebApiWithEF",
-        "projectPath": "C:\\Users\\admin\\Desktop\\iMet\\working dir\\WebApiWithEF\\WebApiWithEF.csproj",
+        "projectPath": "C:\\Users\\admin\\Source\\Repos\\AdebayoEmmanuel\\ASP.NET-Web-API-in-.NET-Core-With-Entity-Framework\\WebApiWithEF\\WebApiWithEF.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\iMet\\working dir\\WebApiWithEF\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Source\\Repos\\AdebayoEmmanuel\\ASP.NET-Web-API-in-.NET-Core-With-Entity-Framework\\WebApiWithEF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
